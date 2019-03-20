@@ -7,18 +7,17 @@ sys.stderr = open(os.devnull, 'w')
 
 numcount = int(input("How many terms are in the list you wish to input?"))
 
-
-while numcount > 0:
+dictionary = PyDictionary()
+definitions = []
+for _ in range(numcount):
     word = input("Please enter a word from the list: ")
-    numcount -= 1
-
-    dictionary = PyDictionary()
-    ##word = input("Enter a word:")
-    print(dictionary.meaning(word))
+    meaning = dictionary.meaning(word)
+    defin_pair = (word, meaning)
+    definitions.append(defin_pair)
+    print(defin_pair)
 
 
 with open('quizletset.csv', 'w', newline='') as f:
     thewriter = csv.writer(f)
-    #thewriter.writerow([word, dictionary.meaning(word)])
-    for lazy in range(0, numcount):
-        thewriter.writerow([word, dictionary.meaning(word)])
+    for defin in definitions:
+        thewriter.writerow(defin)
