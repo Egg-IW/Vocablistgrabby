@@ -1,5 +1,23 @@
-go,"{'Noun': ['a time period for working (after which you will be relieved by someone else', 'street names for methylenedioxymethamphetamine', 'a usually brief attempt', ""a board game for two players who place counters on a grid; the object is to surround and so capture the opponent's counters""], 'Verb': ['change location; move, travel, or proceed, also metaphorically', 'follow a procedure or take a course', 'move away from a place into another direction', 'enter or assume a certain state or condition', 'be awarded; be allotted', 'have a particular form', 'stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point', 'follow a certain course', 'be abolished or discarded', 'be or continue to be in a certain condition', 'make a certain noise or sound', 'perform as expected when applied', 'to be spent or finished', 'progress by being changed', 'continue to live and avoid dying', 'pass, fare, or elapse; of a certain state of affairs or action', 'pass from physical life and lose all bodily attributes and functions necessary to sustain life', 'be in the right place or situation', 'be ranked or compare', 'begin or set in motion', ""have a turn; make one's move in a game"", 'be contained in', 'be sounded, played, or expressed', 'blend or harmonize', 'lead, extend, or afford access', 'be the right size or shape; fit correctly or as desired', ""go through in search of something; search through someone's belongings in an unauthorized way"", 'be spent', 'give support (to', 'stop operating or functioning'], 'Adjective': ['functioning correctly and ready for action']}"
-bye,"{'Noun': ['an automatic advance to the next round in a tournament without playing an opponent', 'a farewell remark']}"
-dictionary,{'Noun': ['a reference book containing an alphabetical list of words with information about them']}
-derivative,"{'Noun': ['the result of mathematical differentiation; the instantaneous change of one quantity relative to another; df(x', 'a compound obtained from, or regarded as derived from, another compound', 'a financial instrument whose value is based on another security', '(linguistics'], 'Adjective': ['resulting from or employing derivation']}"
-integral,"{'Noun': ['the result of a mathematical integration; F(x'], 'Adjective': ['existing as an essential constituent or characteristic', 'constituting the undiminished entirety; lacking nothing essential especially not damaged', 'of or denoted by an integer']}"
+acrimonious,{'Adjective': ['marked by strong resentment or cynicism']}
+atrophy,"{'Noun': ['a decrease in size of an organ caused by disease or disuse', 'any weakening or degeneration (especially through lack of use'], 'Verb': ['undergo atrophy']}"
+benevolence,"{'Noun': ['disposition to do good', 'an inclination to do kind or charitable acts', 'an act intending or showing kindness and good will']}"
+bode,"{'Verb': ['indicate, as with a sign or an omen']}"
+burnish,"{'Noun': ['the property of being smooth and shiny'], 'Verb': ['polish and make shiny']}"
+coerce,"{'Verb': ['to cause to do through pressure or necessity, by physical, moral or intellectual means']}"
+consternation,{'Noun': ['fear resulting from the awareness of danger']}
+desist,{'Verb': ['choose not to consume']}
+emaciate,"{'Verb': ['cause to grow thin or weak', 'grow weak and thin or waste away physically']}"
+enigma,"{'Noun': ['something that baffles understanding and cannot be explained', 'a difficult problem']}"
+equivocal,"{'Adjective': ['open to two or more interpretations; or of uncertain nature or significance; or (often', 'or ambiguous', 'open to question', 'uncertain as a sign or indication']}"
+esoteric,{'Adjective': ['confined to and understandable by only an enlightened inner circle']}
+expound,"{'Verb': ['add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing']}"
+extort,"{'Verb': ['obtain through intimidation', 'obtain by coercion or intimidation', 'get or cause to become in a difficult or laborious manner']}"
+firmament,{'Noun': ['the apparent surface of the imaginary sphere on which celestial bodies appear to be projected']}
+gauntlet,"{'Noun': ['to offer or accept a challenge', 'a glove of armored leather; protects the hand', 'a glove with long sleeve', 'a form of punishment in which a person is forced to run between two lines of men facing each other and armed with clubs or whips to beat the victim']}"
+loquacious,{'Adjective': ['full of trivial conversation']}
+mete,{'Noun': ['a line that indicates a boundary']}
+misnomer,{'Noun': ['an incorrect or unsuitable name']}
+mottled,"{'Verb': ['mark with spots or blotches of different color or shades of color as if stained', 'colour with streaks or blotches of different shades'], 'Adjective': ['having spots or patches of color']}"
+precursor,"{'Noun': ['a substance from which another substance is formed (especially by a metabolic reaction', 'a person who goes before or announces the coming of another', 'something that precedes and indicates the approach of something or someone']}"
+terra firma, "{dry land; the ground as distinct from the sea or air.}
+voluminous, "{loose and ample, very lengthy and full }
